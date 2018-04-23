@@ -6,11 +6,21 @@ So far, there have been 17,263 identical key images and 1,739 identical transact
 
 #### Examples of identical key images
 
+##### Example 1
+
 - v7: https://xmrchain.net/tx/58afb249d54b1ee4557b89570805e5740176cb2916734b6b34a1b2ba53d79495
 
 - v6: (temporary link, can be slow and go off-line anytime): https://iste.serveo.net/tx/04022aae72b1d2cf63db665d14ffbca49ada2d8d3ddd47f7bebf9f9802d5cd15
 
-Screenshot: https://i.imgur.com/edz0qy6.png (same ring member in the both transactions marked)
+Screenshot: https://i.imgur.com/edz0qy6.png (a single shared ring member marked)
+
+##### Example 2
+
+- v7: https://xmrchain.net/tx/b251cffc25af55d27d499c2c5c69559d3cf51cb4784fd57e91303966bb28f7bd
+
+- v6: (temporary link, can be slow and go off-line anytime): https://iste.serveo.net/tx/f9cfff0c012ec1dea9eb89044ab13c64a8a258d4a0eda1466d2c2a859ce67728
+
+Screenshot: https://i.imgur.com/LBAuPa7.png (multiple shared ring members marked)
 
 #### Examples of identical transactions
 
