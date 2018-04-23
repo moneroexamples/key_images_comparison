@@ -1,12 +1,10 @@
 # Comparison of key images between new v7 and old v6 chains
 
-Since the network upgrade to v7, there have been over 17,200 identical key images and 1,700 identical transactions between the new v7 and old v6 chains.
-
 All transactions and their key images in the v7 chain were compared with those in the old v6 chain (blockchain which did not upgrade to v7). The comparison covers a period of about 2 weeks and 2 days; blocks from 1546000 (the Monero upgrade to v7) (1546000) till 1557549 (for v6) and 1557059 (for v7).
 
 So far, there have been 17,263 identical key images and 1,739 identical transactions identified between the chains. For the v6 chain, these represent about 64.1% of total number of key images and 29.3% transactions since the Monero upgrade. For the v7 chain, the percentages are %9.4 and 2.2% respectively. Coinbase transactions were not counted.
 
-### Examples of identical key images
+#### Examples of identical key images
 
 - v7: https://xmrchain.net/tx/58afb249d54b1ee4557b89570805e5740176cb2916734b6b34a1b2ba53d79495
 
@@ -14,7 +12,7 @@ So far, there have been 17,263 identical key images and 1,739 identical transact
 
 Screenshot: https://i.imgur.com/edz0qy6.png (same ring member in the both transactions marked)
 
-### Examples of identical transactions
+#### Examples of identical transactions
 
 - v7: https://xmrchain.net/tx/69052e4f9801b0d53cdc2516b0e5dcc93076ff95962c25cda64bda478e386cec
 
@@ -22,7 +20,7 @@ Screenshot: https://i.imgur.com/edz0qy6.png (same ring member in the both transa
 
 Screenshot: https://i.imgur.com/AJvGlR1.png (since these transactions are identical, except block number, key images and all ring members are same)
 
-### Full results  
+#### Full results  
 
 The csv file with complete list of identical key images and transactions found:
 
@@ -30,7 +28,7 @@ The csv file with complete list of identical key images and transactions found:
 
 Screenshot of a part of the csv file: https://i.imgur.com/IDljkrE.png
 
-### Note
+#### Note
 Please take this analysis for what it is. I’m not claiming that these findings are good or bad for Monero, nor even that this analysis is accurate, reliable and mistake-free.
 
 Possible future updates and/or corrections will be done at  https://github.com/moneroexamples/key_images_comparison
