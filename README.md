@@ -40,5 +40,3 @@ Screenshot of a part of the csv file: https://i.imgur.com/IDljkrE.png
 
 #### Note
 Please take this analysis for what it is. I’m not claiming that these findings are good or bad for Monero, nor even that this analysis is accurate, reliable and mistake-free.
-
-Possible future updates and/or corrections will be done at  https://github.com/moneroexamples/key_images_comparison
