@@ -28,7 +28,7 @@ Screenshot: https://i.imgur.com/LBAuPa7.png (multiple shared ring members marked
 
 - v6: (temporary link, can be slow and go off-line anytime): http://iste.serveo.net/tx/69052e4f9801b0d53cdc2516b0e5dcc93076ff95962c25cda64bda478e386cec
 
-Screenshot: https://i.imgur.com/LBAuPa7.png (since these transactions are identical, except block number, key images and all ring members are same)
+Screenshot: https://i.imgur.com/AJvGlR1.png (since these transactions are identical, except block number, key images and all ring members are same)
 
 #### Full results  
 
