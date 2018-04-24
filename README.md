@@ -4,6 +4,10 @@ All transactions and their key images in the v7 chain were compared with those i
 
 So far, there have been 17,263 identical key images and 1,739 identical transactions identified between the chains. For the v6 chain, these represent about 64.1% of total number of key images and 29.3% transactions since the Monero upgrade. For the v7 chain, the percentages are %9.4 and 2.2% respectively. Coinbase transactions were not counted.
 
+Additional data based on this [comment](https://www.reddit.com/r/Monero/comments/8eg9nd/comparison_of_key_images_between_new_v7_and_old/dxv1oqx/):
+
+There are 1208 unique transactions on the v7 chain that are different from those in v6, and have at least one reused key. This represent ~1.6% of the txs analysed in the v7 chain (coinbase transactions not counted). The csv file with the list of these 1208 transactions is [here](https://github.com/moneroexamples/key_images_comparison/blob/master/files/out_same_ki_unique_different_tx_v7.csv.zip).
+
 #### Examples of identical key images
 
 ##### Example 1
